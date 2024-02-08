@@ -1,0 +1,284 @@
+{
+  "sources": [
+    {
+      "type": "directory",
+      "source": "block",
+      "prefix": "block/"
+    },
+    {
+      "type": "directory",
+      "source": "colormap",
+      "prefix": "colormap/"
+    },
+    {
+      "type": "directory",
+      "source": "effect",
+      "prefix": "effect/"
+    },
+    {
+      "type": "directory",
+      "source": "entity",
+      "prefix": "entity/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/armorstand",
+      "prefix": "entity/armorstand/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/banner",
+      "prefix": "entity/banner/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/bear",
+      "prefix": "entity/bear/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/bed",
+      "prefix": "entity/bed/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/boat",
+      "prefix": "entity/boat/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/cat",
+      "prefix": "entity/cat/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/chest",
+      "prefix": "entity/chest/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/cow",
+      "prefix": "entity/cow/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/creeper",
+      "prefix": "entity/creeper/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/enderdragon",
+      "prefix": "entity/enderdragon/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/enderman",
+      "prefix": "entity/enderman/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/end_crystal",
+      "prefix": "entity/end_crystal/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/ghast",
+      "prefix": "entity/ghast/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/horse",
+      "prefix": "entity/horse/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/horse/armor",
+      "prefix": "entity/horse/armor/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/illager",
+      "prefix": "entity/illager/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/iron_golem",
+      "prefix": "entity/iron_golem/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/llama",
+      "prefix": "entity/llama/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/llama/decor",
+      "prefix": "entity/llama/decor/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/parrot",
+      "prefix": "entity/parrot/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/pig",
+      "prefix": "entity/pig/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/projectiles",
+      "prefix": "entity/projectiles/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/rabbit",
+      "prefix": "entity/rabbit/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/sheep",
+      "prefix": "entity/sheep/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/shield",
+      "prefix": "entity/shield/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/shulker",
+      "prefix": "entity/shulker/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/skeleton",
+      "prefix": "entity/skeleton/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/slime",
+      "prefix": "entity/slime/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/spider",
+      "prefix": "entity/spider/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/squid",
+      "prefix": "entity/squid/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/villager",
+      "prefix": "entity/villager/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/wither",
+      "prefix": "entity/wither/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/wolf",
+      "prefix": "entity/wolf/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/zombie",
+      "prefix": "entity/zombie/"
+    },
+    {
+      "type": "directory",
+      "source": "entity/zombie_villager",
+      "prefix": "entity/zombie_villager/"
+    },
+    {
+      "type": "directory",
+      "source": "environment",
+      "prefix": "environment/"
+    },
+    {
+      "type": "directory",
+      "source": "font",
+      "prefix": "font/"
+    },
+    {
+      "type": "directory",
+      "source": "gui",
+      "prefix": "gui/"
+    },
+    {
+      "type": "directory",
+      "source": "gui/advancements",
+      "prefix": "gui/advancements/"
+    },
+    {
+      "type": "directory",
+      "source": "gui/advancements/backgrounds",
+      "prefix": "gui/advancements/backgrounds/"
+    },
+    {
+      "type": "directory",
+      "source": "gui/container",
+      "prefix": "gui/container/"
+    },
+    {
+      "type": "directory",
+      "source": "gui/container/creative_inventory",
+      "prefix": "gui/container/creative_inventory/"
+    },
+    {
+      "type": "directory",
+      "source": "gui/presets",
+      "prefix": "gui/presets/"
+    },
+    {
+      "type": "directory",
+      "source": "gui/title",
+      "prefix": "gui/title/"
+    },
+    {
+      "type": "directory",
+      "source": "gui/title/background",
+      "prefix": "gui/title/background/"
+    },
+    {
+      "type": "directory",
+      "source": "item",
+      "prefix": "item/"
+    },
+    {
+      "type": "directory",
+      "source": "map",
+      "prefix": "map/"
+    },
+    {
+      "type": "directory",
+      "source": "misc",
+      "prefix": "misc/"
+    },
+    {
+      "type": "directory",
+      "source": "models",
+      "prefix": "models/"
+    },
+    {
+      "type": "directory",
+      "source": "models/armor",
+      "prefix": "models/armor/"
+    },
+    {
+      "type": "directory",
+      "source": "painting",
+      "prefix": "painting/"
+    },
+    {
+      "type": "directory",
+      "source": "particle",
+      "prefix": "particle/"
+    }
+  ]
+}
