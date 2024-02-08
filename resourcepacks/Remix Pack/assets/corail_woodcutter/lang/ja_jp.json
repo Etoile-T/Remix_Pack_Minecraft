@@ -1,0 +1,16 @@
+{
+  "block.corail_woodcutter.acacia_woodcutter": "アカシアの製材",
+  "block.corail_woodcutter.birch_woodcutter": "シラカバの製材",
+  "block.corail_woodcutter.cherry_woodcutter": "サクラの製材",
+  "block.corail_woodcutter.crimson_woodcutter": "真紅の製材",
+  "block.corail_woodcutter.dark_oak_woodcutter": "ダークオークの製材",
+  "block.corail_woodcutter.jungle_woodcutter": "ジャングルの製材",
+  "block.corail_woodcutter.mangrove_woodcutter": "マングローブの製材",
+  "block.corail_woodcutter.oak_woodcutter": "オークの製材",
+  "block.corail_woodcutter.spruce_woodcutter": "トウヒの製材",
+  "block.corail_woodcutter.warped_woodcutter": "歪んだ製材",
+  "block.corail_woodcutter.bamboo_woodcutter": "竹の製材",
+  "container.corail_woodcutter.woodcutter": "製材",
+  "item.corail_woodcutter.woodcutter.desc": "",
+  "item.corail_woodcutter.woodcutter.inventory": "スニークしながらで右クリックしてインベントリでも使用"
+}

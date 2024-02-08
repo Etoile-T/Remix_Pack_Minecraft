@@ -1,0 +1,17 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "stabxmodernguns:sulphur"
+      },
+      {
+        "tag": "forge:gunpowder"
+      }
+    ],
+    "results": [
+      {
+        "count": 2,
+        "item": "stabxmodernguns:smokeless_gunpowder"
+      }
+    ]
+  }

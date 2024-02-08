@@ -1,0 +1,25 @@
+{
+  "item.onlyhammersandexcavators.wooden_excavator": "木の掘削道具",
+  "item.onlyhammersandexcavators.stone_excavator": "石の掘削道具",
+  "item.onlyhammersandexcavators.iron_excavator": "鉄の掘削道具",
+  "item.onlyhammersandexcavators.gold_excavator": "金の掘削道具",
+  "item.onlyhammersandexcavators.lapis_excavator": "ラピスラズリの掘削道具",
+  "item.onlyhammersandexcavators.redstone_excavator": "レッドストーンの掘削道具",
+  "item.onlyhammersandexcavators.diamond_excavator": "ダイヤモンドの掘削道具",
+  "item.onlyhammersandexcavators.emerald_excavator": "エメラルドの掘削道具",
+  "item.onlyhammersandexcavators.obsidian_excavator": "黒曜石の掘削道具",
+  "item.onlyhammersandexcavators.netherite_excavator": "ネザライトの掘削道具",
+
+  "item.onlyhammersandexcavators.wooden_hammer": "木のハンマー",
+  "item.onlyhammersandexcavators.stone_hammer": "石のハンマー",
+  "item.onlyhammersandexcavators.iron_hammer": "鉄のハンマー",
+  "item.onlyhammersandexcavators.gold_hammer": "金のハンマー",
+  "item.onlyhammersandexcavators.lapis_hammer": "ラピスラズリのハンマー",
+  "item.onlyhammersandexcavators.redstone_hammer": "レッドストーンのハンマー",
+  "item.onlyhammersandexcavators.diamond_hammer": "ダイヤモンドのハンマー",
+  "item.onlyhammersandexcavators.emerald_hammer": "エメラルドのハンマー",
+  "item.onlyhammersandexcavators.obsidian_hammer": "黒曜石のハンマー",
+  "item.onlyhammersandexcavators.netherite_hammer": "ネザライトのハンマー",
+
+  "itemGroup.onlyhammersandexcavators": "Only Hammers And Excavator"
+}

@@ -1,0 +1,64 @@
+{
+	"text.puffish_skills.skills": "スキル",
+	"text.puffish_skills.points_left": "残りスキルポイント: ",
+
+	"tooltip.puffish_skills.current_level": "現在のレベル: %s",
+	"tooltip.puffish_skills.experience_progress": "現在の経験量: %s/%s (%s%%)",
+	"tooltip.puffish_skills.to_next_level": "次のレベルまで: %s",
+	"tooltip.puffish_skills.earned_points": "使用前スキルポイント: %s",
+	"tooltip.puffish_skills.spent_points": "使用済スキルポイント: %s",
+
+	"category.puffish_skills.skills": "スキル",
+	"key.puffish_skills.open": "スキルツリーを開く",
+
+	"attribute.puffish_skills.player.stamina": "スタミナ",
+	"attribute.puffish_skills.player.melee_damage": "近接攻撃力",
+	"attribute.puffish_skills.player.ranged_damage": "遠距離攻撃力",
+	"attribute.puffish_skills.player.fortune": "幸運",
+	"attribute.puffish_skills.player.healing": "回復力",
+	"attribute.puffish_skills.player.jump": "跳躍力",
+	"attribute.puffish_skills.player.resistance": "防御力",
+	"attribute.puffish_skills.player.mining_speed": "採掘速度",
+	"attribute.puffish_skills.player.sprinting_speed": "ダッシュ速度",
+	"attribute.puffish_skills.player.knockback": "ノックバック",
+
+	"chat.puffish_skills.new_point": "新しいスキルポイントを獲得しました。%s キーを押して、スキルツリーを開きます。",
+
+	"toast.puffish_skills.invalid_config.description": "Invalid configuration, check game logs.",
+
+	"gamerule.puffish_skills:announceNewPoints": "Announce new skill points",
+
+	"command.puffish_skills.no_such_category": "There is no category with ID %s",
+	"command.puffish_skills.no_such_skill": "There is no skill with ID %s",
+	"command.puffish_skills.no_experience": "Experience is not enabled for this category",
+
+	"command.puffish_skills.category.lock.success.single": "Locked category %s for %s",
+	"command.puffish_skills.category.lock.success.multiple": "Locked category %s for %s players",
+
+	"command.puffish_skills.category.unlock.success.single": "Unlocked category %s for %s",
+	"command.puffish_skills.category.unlock.success.multiple": "Unlocked category %s for %s players",
+
+	"command.puffish_skills.category.erase.success.single": "Erased category %s for %s",
+	"command.puffish_skills.category.erase.success.multiple": "Erased category %s for %s players",
+
+	"command.puffish_skills.experience.add.success.single": "Added %s experience to category %s for %s",
+	"command.puffish_skills.experience.add.success.multiple": "Added %s experience to category %s for %s players",
+
+	"command.puffish_skills.experience.set.success.single": "Set %s experience in category %s for %s",
+	"command.puffish_skills.experience.set.success.multiple": "Set %s experience in category %s for %s players",
+
+	"command.puffish_skills.points.add.success.single": "Added %s points to category %s for %s",
+	"command.puffish_skills.points.add.success.multiple": "Added %s points to category %s for %s players",
+
+	"command.puffish_skills.points.set.success.single": "Set %s points in category %s for %s",
+	"command.puffish_skills.points.set.success.multiple": "Set %s points in category %s for %s players",
+
+	"command.puffish_skills.skills.unlock.success.single": "Unlocked %s skill in category %s for %s",
+	"command.puffish_skills.skills.unlock.success.multiple": "Unlocked %s skill in category %s for %s players",
+
+	"command.puffish_skills.skills.lock.success.single": "Locked %s skill in category %s for %s",
+	"command.puffish_skills.skills.lock.success.multiple": "Locked %s skill in category %s for %s players",
+
+	"command.puffish_skills.skills.reset.success.single": "Reset all skills in category %s for %s",
+	"command.puffish_skills.skills.reset.success.multiple": "Reset all skills in category %s for %s players"
+}

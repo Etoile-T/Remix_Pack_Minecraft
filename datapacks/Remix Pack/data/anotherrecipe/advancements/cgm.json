@@ -1,0 +1,24 @@
+{
+    "display": {
+      "icon": {
+        "item": "cgm:workbench"
+      },
+      "title": "弾幕はパワー",
+      "description": "銃を作成するための作業台を作成する"
+    },
+    "parent": "anotherrecipe:create_mechanical_crafter",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "cgm:workbench"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }

@@ -1,0 +1,24 @@
+{
+    "display": {
+      "icon": {
+        "item": "farmersdelight:cutting_board"
+      },
+      "title": "栄養管理職",
+      "description": "Farmer's Delight を始める"
+    },
+    "parent": "anotherrecipe:root",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "farmersdelight:cutting_board"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }

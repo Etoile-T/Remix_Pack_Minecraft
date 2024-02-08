@@ -1,0 +1,24 @@
+{
+    "display": {
+      "icon": {
+        "item": "k_turrets:cobble_turret_item"
+      },
+      "title": "自動反撃システム",
+      "description": "自動照準タレットを作成する"
+    },
+    "parent": "anotherrecipe:create_mechanical_crafter",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "k_turrets:cobble_turret_item"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }

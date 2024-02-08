@@ -1,0 +1,38 @@
+{
+  "k_turrets": "K-Turrets",
+  "item.k_turrets.cobble_turret_item": "ティア1タレット【丸石】",  
+  "item.k_turrets.brick_turret_item": "ティア2タレット【レンガ】",  
+  "item.k_turrets.arrow_turret_item": "ティア3タレット【矢】",
+  "item.k_turrets.firecharge_turret_item": "ティア4タレット【ファイアーチャージ】",  
+  "item.k_turrets.bullet_turret_item": "ティア5タレット【鉄塊・金塊】",  
+  "item.k_turrets.gauss_turret_item": "ティア6タレット【ガウス弾】",  
+
+  "item.k_turrets.cobble_drone_item": "ティア1ドローン【丸石】",  
+  "item.k_turrets.brick_drone_item": "ティア2ドローン【レンガ】",  
+  "item.k_turrets.arrow_drone_item": "ティア3ドローン【矢】",  
+  "item.k_turrets.firecharge_drone_item": "ティア4ドローン【ファイアーチャージ】",  
+  "item.k_turrets.bullet_drone_item": "ティア5ドローン【鉄塊・金塊】",  
+  "item.k_turrets.gauss_drone_item": "ティア6ドローン【ガウス弾】",  
+  
+  "item.k_turrets.explosive_powder": "爆薬",  
+  "item.k_turrets.gauss_bullet": "ガウス弾",  
+  "item.k_turrets.titanium_ingot": "チタンインゴット",
+  "item.k_turrets.raw_titanium": "チタン原石",
+
+  "entity.k_turrets.cobble_turret": "ティア1タレット【丸石】",
+  "entity.k_turrets.brick_turret": "ティア2タレット【レンガ】",
+  "entity.k_turrets.arrow_turret": "ティア3タレット【矢】",
+  "entity.k_turrets.fire_charge_turret": "ティア4タレット【ファイアーチャージ】",
+  "entity.k_turrets.bullet_turret": "ティア5タレット【鉄塊・金塊】",
+  "entity.k_turrets.gauss_turret": "ティア6タレット【ガウス弾】",
+
+  "entity.k_turrets.cobble_drone": "ティア1ドローン【丸石】",
+  "entity.k_turrets.brick_drone": "ティア2ドローン【レンガ】",
+  "entity.k_turrets.arrow_drone": "ティア3ドローン【矢】",
+  "entity.k_turrets.firecharge_drone": "ティア4ドローン【ファイアーチャージ】",
+  "entity.k_turrets.bullet_drone": "ティア5ドローン【鉄塊・金塊】",
+  "entity.k_turrets.gauss_drone": "ティア6ドローン【ガウス弾】",
+
+  "block.k_turrets.titanium_ore": "チタン鉱石",
+  "block.k_turrets.deepslate_titanium_ore": "深層チタン鉱石"
+}

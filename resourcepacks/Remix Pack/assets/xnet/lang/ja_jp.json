@@ -1,0 +1,80 @@
+{
+
+    "item.xnet.xnet_manual": "Xネット マニュアル",
+    "item.xnet.connector_upgrade": "コネクタ強化キット",
+  
+    "block.xnet.facade": "ファサード",
+    "item.xnet.facade_blue": "ファサード【青】",
+    "item.xnet.facade_red": "ファサード【赤】",
+    "item.xnet.facade_yellow": "ファサード【黄】",
+    "item.xnet.facade_green": "ファサード【緑】",
+    "item.xnet.facade_routing": "ファサード【青】",
+  
+    "block.xnet.connector": "コネクタ",
+    "item.xnet.connector_blue": "コネクタ【青】",
+    "item.xnet.connector_red": "コネクタ【赤】",
+    "item.xnet.connector_yellow": "コネクタ【黄】",
+    "item.xnet.connector_green": "コネクタ【緑】",
+    "item.xnet.connector_routing": "コネクタ【青】",
+  
+    "block.xnet.advanced_connector": "上級コネクタ",
+    "item.xnet.advanced_connector_blue": "上級コネクタ【青】",
+    "item.xnet.advanced_connector_red": "上級コネクタ【赤】",
+    "item.xnet.advanced_connector_yellow": "上級コネクタ【黄】",
+    "item.xnet.advanced_connector_green": "上級コネクタ【緑】",
+    "item.xnet.advanced_connector_routing": "上級コネクタ【青】",
+  
+    "block.xnet.netcable": "ネットワークケーブル",
+    "item.xnet.netcable_blue": "ネットワークケーブル【青】",
+    "item.xnet.netcable_red": "ネットワークケーブル【赤】",
+    "item.xnet.netcable_yellow": "ネットワークケーブル【黄】",
+    "item.xnet.netcable_green": "ネットワークケーブル【緑】",
+    "item.xnet.netcable_routing": "ネットワークケーブル【青】",
+  
+    "block.xnet.redstone_proxy": "レッドストーン プロキシ",
+    "block.xnet.redstone_proxy_upd": "レッドストーン プロキシ (更新)",
+  
+    "block.xnet.controller": "コントローラー",
+    "block.xnet.router": "ルーター",
+    "block.xnet.wireless_router": "無線ルーター",
+    "block.xnet.antenna": "アンテナ",
+    "block.xnet.antenna_base": "アンテナベース",
+    "block.xnet.antenna_dish": "アンテナ受信機",
+
+    "itemGroup.xnet": "XNet",
+
+    "message.xnet.shiftmessage": "<Shiftキーを押す>",
+
+    "message.xnet.facade.header": "このブロックは、他のブロックに姿を変えたり、XNetケーブルをカモフラージュしたりできるぞ。",
+    "message.xnet.facade.gold": "右クリックか、Shiftキーを押しながら右クリックで、姿を変えたいブロックを選択するんだ。ケーブルやコネクタを隠したい時も同じだ。",
+    "message.xnet.facade.info": "現在変化中: ",
+
+    "message.xnet.connector.header": "ネットワークに接続したいブロックや機械の隣に、コネクタを設置するんだ。",
+    "message.xnet.connector.info": "最大RF: ",
+
+    "message.xnet.advanced_connector.header": "ネットワークに接続したいブロックや機械の隣に、コネクタを設置するんだ。",
+    "message.xnet.advanced_connector.info": "最大RF: ",
+    "message.xnet.advanced_connector.gold": "様々な方向からアクセス可能。アイテムの転送速度も速いぞ。",
+
+    "message.xnet.controller.header": "XNetオートメーションの基盤となるブロックだ。",
+
+    "message.xnet.router.header": "このブロックで、複数のチャンネル（コントローラー）を接続できるんだ。",
+
+    "message.xnet.wireless_router.header": "このブロックを使えば、離れた場所にある複数のチャンネルを接続できるぞ。ルーターケーブルを使って、通常のルーターに接続するんだ。",
+    "message.xnet.wireless_router.gold": "動作させるには、上にアンテナを設置する必要があるぞ！",
+
+    "message.xnet.antenna.header": "アンテナベースの上に、アンテナを1つまたは2つ設置するんだ。",
+    "message.xnet.antenna.one": "1つ設置時: ",
+    "message.xnet.antenna.two": "2つ設置時: ",
+
+    "message.xnet.antenna_base.header": "アンテナベースは、ワイヤレスルーターの上に設置する必要があるぞ。",
+    "message.xnet.antenna_dish.header": "アンテナベースの上に設置するアンテナディッシュは、超広範囲のワイヤレス通信を可能にするんだ。",
+    "message.xnet.antenna_dish.info": "消費電力: ",
+
+    "message.xnet.redstone_proxy.header": "レッドストーン用の代理ブロックとして働くんだ。XNetはこれに接続できるぞ。",
+    "message.xnet.redstone_proxy.gold": "このバージョンはブロックの更新を行わないんだ！",
+
+    "message.xnet.redstone_proxy_upd.header": "レッドストーン用の代理ブロックとして働くんだ。XNetはこれに接続できるぞ。",
+    "message.xnet.redstone_proxy_upd.gold": "このバージョンはブロックの更新を行うんだ！"
+
+}

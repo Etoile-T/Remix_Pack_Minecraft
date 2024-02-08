@@ -1,0 +1,17 @@
+{
+  "display": {
+      "title": "薔薇の告白",
+      "description": "世界へログインした",
+      "icon": {
+          "item": "minecraft:poppy"
+      },
+      "background": "minecraft:textures/block/gray_concrete.png",
+      "show_toast": false,
+      "announce_to_chat": false
+  },
+  "criteria": {
+      "trigger": {
+          "trigger": "minecraft:tick"
+      }
+  }
+}

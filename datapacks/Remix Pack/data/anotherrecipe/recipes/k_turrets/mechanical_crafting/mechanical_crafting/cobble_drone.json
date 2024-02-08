@@ -1,0 +1,25 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "bdb",
+    "sfs",
+    "sfs"
+  ],
+  "key": {
+    "d": {
+      "item": "minecraft:dispenser"
+    },
+    "b": {
+      "item": "minecraft:cobblestone"
+    },
+    "s": {
+      "tag": "forge:ingots/titanium"
+    },
+    "f": {
+      "item": "minecraft:feather"
+    }
+  },
+  "result": {
+    "item": "k_turrets:cobble_drone_item"
+  }
+}

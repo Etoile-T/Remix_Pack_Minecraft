@@ -1,0 +1,74 @@
+{
+    "item.rftoolsbase.network_monitor": "RFネットワークモニター",
+    "item.rftoolsbase.teleport_probe": "テレポートプローブ",
+    "item.rftoolsbase.filter_module": "フィルターモジュール",
+    "item.rftoolsbase.developers_delight": "開発者の喜び",
+    "item.rftoolsbase.shard_wand": "シャードワンド",
+    "item.rftoolsbase.orphaning_card": "オーファンカード",
+    "item.rftoolsbase.security_card": "セキュリティカード",
+    "item.rftoolsbase.infused_diamond": "注入されたダイヤモンド",
+    "item.rftoolsbase.infused_enderpearl": "注入されたエンダーパール",
+    "item.rftoolsbase.smartwrench": "スマートレンチ",
+    "item.rftoolsbase.smartwrench_select": "スマートレンチ（選択）",
+    "item.rftoolsbase.dimensionalshard": "次元片",
+    "item.rftoolsbase.machine_frame": "機械フレーム",
+    "item.rftoolsbase.machine_base": "機械ベース",
+    "item.rftoolsbase.crafting_card": "クラフトカード",
+    "item.rftoolsbase.tablet": "タブレット（空）",
+    "item.rftoolsbase.tablet_filled": "タブレット（充填済み）",
+    "item.rftoolsbase.manual": "技術ガイド",
+   
+    "block.rftoolsbase.machine_infuser": "機械注入器",
+    "block.rftoolsbase.security_manager": "セキュリティマネージャー",
+    "block.rftoolsbase.dimensionalshard_overworld": "次元片鉱石",
+    "block.rftoolsbase.dimensionalshard_nether": "次元片鉱石",
+    "block.rftoolsbase.dimensionalshard_end": "次元片鉱石",
+    "block.rftoolsbase.information_screen": "情報画面",
+   
+    "_comment": "クリエイティブタブ",
+    "itemGroup.rftoolsbase": "RFToolsベース",
+   
+    "_comment": "キー",
+    "key.categories.rftools": "RFTools",
+    "key.debugDumpNBTItem": "手に持ったアイテムのNBTをダンプ",
+    "key.debugDumpNBTBlock": "選択されたブロックのNBTをダンプ",
+    "key.nextDestination": "次のターゲットに移動",
+    "key.prevDestination": "前のターゲットに移動",
+    
+    "_comment": "メッセージ",
+    "message.rftoolsbase.shiftmessage": "<Shiftキーを押す>",
+    
+    "message.rftoolsbase.crafting_card.header": "このアイテムはクラフトに使用できます。レシピの材料と最終結果を保存します",
+    "message.rftoolsbase.crafting_card.info": "アイテム：",
+    
+    "message.rftoolsbase.information_screen.header": "このブロックをパワーセルに配置すると、そのセルに関する情報が表示されます。レンチで右クリックしてモードを変更します",
+    "message.rftoolsbase.information_screen.gold": "このブロックは、RF/FEをサポートするブロックの電力情報も表示できます",
+    
+    "message.rftoolsbase.machine_infuser.header": "この機械を使用すると、RFToolsのほとんどの他の機械をさまざまな方法で強化できます。次元片が必要です",
+    "message.rftoolsbase.machine_infuser.gold": "注入ボーナス：消費電力削減",
+    
+    "message.rftoolsbase.filter_module.header": "このフィルターモジュールは、さまざまな状況（XNet、ストレージ、ビルダー、クラフターなど）で使用されます。ブロックが特定のアイテムのみを受け入れるようにすることができます",
+    "message.rftoolsbase.filter_module.gold": "インベントリをスニーク右クリックして内容に基づいて構成するか、ブロックをスニーク右クリックしてそのブロックをフィルターに追加します",
+    "message.rftoolsbase.filter_module.info": "モード：",
+    
+    "message.rftoolsbase.manual.header": "このガイドは、すべてのRFToolsベースのテクノロジーMODのマニュアルです",
+    
+    "message.rftoolsbase.tablet.header": "リモートGUIや情報への参照に使用できるタブレット",
+    "message.rftoolsbase.tablet.gold": "空のタブレット：GUIを開いて、タブレット情報アイテムと組み合わせます",
+    
+    "message.rftoolsbase.tablet_filled.header": "リモートGUIや情報への参照に使用できるタブレット",
+    "message.rftoolsbase.tablet_filled.gold": "情報が含まれているタブレット：右クリックで情報GUIを開き、スニーク右クリックでタブレットGUIを開きます",
+    
+    "message.rftoolsbase.smartwrench.header": "汎用スマートレンチ。空中で右クリックしてモードを変更します",
+    "message.rftoolsbase.smartwrench.gold": "通常のレンチとして使用：スニーク右クリックで回収、右クリックで回転",
+    "message.rftoolsbase.smartwrench.info1": "モード：",
+    "message.rftoolsbase.smartwrench.info2": "ブロック：",
+    
+    "message.rftoolsbase.smartwrench_select.header": "汎用スマートレンチ。空中で右クリックしてモードを変更します",
+    "message.rftoolsbase.smartwrench_select.gold": "ブロックセレクターとして使用：スニーク右クリックでマスターブロックを選択し、右クリックでブロックをマスターに関連付けます",
+    "message.rftoolsbase.smartwrench_select.info1": "モード：",
+    "message.rftoolsbase.smartwrench_select.info2": "ブロック：",
+    
+    "message.rftoolsbase.security_manager": "@a内容： %s スタック\n@fこのブロックはセキュリティカードを管理します"
+}
+    

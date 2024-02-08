@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "minecraft:dirt"
+      }
+    ],
+    "processingTime": 250,
+    "results": [
+      {
+        "item": "minecraft:gunpowder",
+        "count": 8
+      },
+      {
+        "chance": 0.75,
+        "item": "create:experience_nugget"
+      }
+    ]
+  }

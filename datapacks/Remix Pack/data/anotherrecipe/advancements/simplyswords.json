@@ -1,0 +1,24 @@
+{
+    "display": {
+      "icon": {
+        "item": "simplyswords:runic_tablet"
+      },
+      "title": "戦う武器は一つではない",
+      "description": "SimplySwordsを始める"
+    },
+    "parent": "anotherrecipe:root",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "simplyswords:runic_tablet"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }

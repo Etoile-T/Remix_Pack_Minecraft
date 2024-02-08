@@ -1,0 +1,17 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "tag": "minecraft:coals"
+      },
+      {
+        "item": "mekanism:enriched_iron"
+      }
+    ],
+    "results": [
+      {
+        "item": "mekanism:dust_steel",
+        "count": 2
+      }
+    ]
+  }

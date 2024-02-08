@@ -1,0 +1,21 @@
+{
+  "type": "create:mechanical_crafting",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:light_gray_concrete"
+    },
+    "I": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "pattern": [
+    "CCC",
+    "III",
+    "I I"
+  ],
+  "result": {
+    "item": "cgm:workbench"
+  },
+  "show_notification": true
+}

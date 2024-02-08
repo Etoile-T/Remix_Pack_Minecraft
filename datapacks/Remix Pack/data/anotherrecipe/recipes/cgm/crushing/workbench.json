@@ -1,0 +1,22 @@
+{
+  "type": "create:mechanical_crafting",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "stabxmodernguns:steel_dust"
+    },
+    "C": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "pattern": [
+    "III",
+    "ICI",
+    "III"
+  ],
+  "result": {
+    "item": "stabxmodernguns:gun_steel_ingot",
+    "count": 8
+  },
+  "show_notification": true
+}

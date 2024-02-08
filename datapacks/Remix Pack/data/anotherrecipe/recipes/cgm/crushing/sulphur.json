@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "minecraft:sandstone"
+      }
+    ],
+    "processingTime": 250,
+    "results": [
+      {
+        "item": "stabxmodernguns:sulphur",
+        "count": 4
+      },
+      {
+        "chance": 0.75,
+        "item": "create:experience_nugget"
+      }
+    ]
+  }

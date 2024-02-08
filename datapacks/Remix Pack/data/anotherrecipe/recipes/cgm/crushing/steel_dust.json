@@ -1,0 +1,19 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "ad_astra:steel_ingot"
+      }
+    ],
+    "processingTime": 250,
+    "results": [
+      {
+        "item": "stabxmodernguns:steel_dust",
+        "count": 8
+      },
+      {
+        "chance": 0.75,
+        "item": "create:experience_nugget"
+      }
+    ]
+  }

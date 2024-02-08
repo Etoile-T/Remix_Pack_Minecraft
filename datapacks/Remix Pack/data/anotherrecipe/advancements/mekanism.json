@@ -1,0 +1,24 @@
+{
+    "display": {
+      "icon": {
+        "item": "mekanism:metallurgic_infuser"
+      },
+      "title": "工業の夜明け",
+      "description": "Mechanismを始める"
+    },
+    "parent": "anotherrecipe:root",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "mekanism:metallurgic_infuser"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }

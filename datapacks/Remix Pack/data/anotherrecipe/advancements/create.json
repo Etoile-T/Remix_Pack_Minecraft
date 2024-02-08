@@ -1,0 +1,24 @@
+{
+    "display": {
+      "icon": {
+        "item": "create:cogwheel"
+      },
+      "title": "始祖の歯車",
+      "description": "Createを始める"
+    },
+    "parent": "anotherrecipe:root",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "create:cogwheel"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }

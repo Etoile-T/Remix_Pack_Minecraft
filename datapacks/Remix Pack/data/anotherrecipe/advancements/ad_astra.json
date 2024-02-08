@@ -1,0 +1,24 @@
+{
+    "display": {
+      "icon": {
+        "item": "ad_astra:earth_globe"
+      },
+      "title": "外宇宙への逃走",
+      "description": "別の惑星に災害はない。避難せよ。"
+    },
+    "parent": "anotherrecipe:mekanism",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "ad_astra:earth_globe"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }

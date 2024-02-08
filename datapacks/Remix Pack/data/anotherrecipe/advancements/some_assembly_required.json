@@ -1,0 +1,24 @@
+{
+    "display": {
+      "icon": {
+        "item": "some_assembly_required:sandwiching_station"
+      },
+      "title": "エリアゼロ",
+      "description": "サンドイッチを作成しよう"
+    },
+    "parent": "anotherrecipe:farmersdelight",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "some_assembly_required:sandwiching_station"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }

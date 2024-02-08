@@ -1,0 +1,24 @@
+{
+    "display": {
+      "icon": {
+        "item": "create:mechanical_crafter"
+      },
+      "title": "精密作業台",
+      "description": "進捗にないMODを進めるにはメカニカルクラフターを作成する必要がある"
+    },
+    "parent": "anotherrecipe:create",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "create:mechanical_crafter"
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }

@@ -1,0 +1,35 @@
+{
+  "commands.sereneseasons.usage": "/season <get/set> [args]",
+  "commands.sereneseasons.getseason.success": "Current season is %s, day %s/%s, tick %s/%s",
+  "commands.sereneseasons.setseason.success": "Set season to %s",
+  "commands.sereneseasons.setseason.fail": "Invalid season %s",
+  "commands.sereneseasons.setseason.disabled": "Seasons are currently disabled!",
+
+  "itemGroup.tabSereneSeasons": "Serene Seasons",
+
+  "block.sereneseasons.season_sensor": "季節センサー",
+  
+  "item.sereneseasons.ss_icon": "SS Icon",
+  "item.sereneseasons.calendar": "カレンダー",
+
+  "desc.sereneseasons.fertile_seasons": "Fertile Seasons",
+  "desc.sereneseasons.year_round": "Year-Round",
+  "desc.sereneseasons.day_counter": "%s月%s日",
+  "desc.sereneseasons.spring": "春",
+  "desc.sereneseasons.early_spring": "春",
+  "desc.sereneseasons.early_pring": "春",
+  "desc.sereneseasons.mid_spring": "春",
+  "desc.sereneseasons.late_spring": "春",
+  "desc.sereneseasons.summer": "夏",
+  "desc.sereneseasons.early_summer": "夏",
+  "desc.sereneseasons.mid_summer": "夏",
+  "desc.sereneseasons.late_summer": "夏",
+  "desc.sereneseasons.autumn": "秋",
+  "desc.sereneseasons.early_autumn": "秋",
+  "desc.sereneseasons.mid_autumn": "秋",
+  "desc.sereneseasons.late_autumn": "秋",
+  "desc.sereneseasons.winter": "冬",
+  "desc.sereneseasons.early_winter": "冬",
+  "desc.sereneseasons.mid_winter": "冬",
+  "desc.sereneseasons.late_winter": "冬"
+}
